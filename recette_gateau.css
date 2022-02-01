@@ -24,15 +24,16 @@ p.recette{
     font-size: 18px;
     font-weight: bold;
     display: inline-block; /*selection de l'espace lié au bloc concerné et permet de le redimentionner*/
-    margin-top: -25px;
-    padding: 10px 20px;
+    margin-top: -15px;
+    padding: 8px 18px;
     margin-bottom: 0; 
-    overflow: visible;   
+   
 }
 
 div.recette{
     margin-bottom:0px;
     margin-top: 0px;
+    overflow: visible;
 }  
 
 h1{
